@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😄 About Me
-- 🌱 My primary skillset is in: React, Typescript, Javascript, Material UI, SCSS
+- 🌱 My primary skillset is in: React, Typescript, Javascript, Material UI and SCSS.
 - 👯 I learned coding while participating in a bootcamp organized by Coderslab for Javascript:React Developer and then got first assesment.
 
 ## My experience 
